@@ -1,6 +1,7 @@
 {
   "name": "place-tags",
   "version": "1.0.0",
+  "type": "module",
   "main": "index.js",
   "author": "Ian Hansborough",
   "license": "MIT",
